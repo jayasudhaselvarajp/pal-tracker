@@ -23,7 +23,7 @@ public class EnvController {
         this.memoryLimit=memoryLimit;
         this.cfInstanceIndex=cfInstanceIndex;
         this.cfInstanceAddr=cfInstanceAddr;
-
+        System.out.println("Travis CI Integration");
 
     }
 
